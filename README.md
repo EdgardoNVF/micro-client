@@ -14,5 +14,5 @@
 
 - **AZURE_CLIENT_SECRET** *(Obligatorio)*: Clave de acceso temporal de la aplicación de azure. 
 
-- **KEY_VAULT_URI** *(Obligatorio)*: URL del servicio de Azure Key Vault donde se encuentran los secretos. 
+- **KEYVAULT_URI** *(Obligatorio)*: URL del servicio de Azure Key Vault donde se encuentran los secretos. 
 
